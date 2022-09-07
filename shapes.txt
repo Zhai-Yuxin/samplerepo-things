@@ -2,4 +2,9 @@ circle
 oval
 rectangle
 square
+<<<<<<< HEAD
 octagon
+=======
+pentagon
+triangle
+>>>>>>> feature1
